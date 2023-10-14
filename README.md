@@ -6,15 +6,8 @@
   </ul>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
-</p>        
-
-
-
+  
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -47,9 +40,6 @@ icons and links
 
 </div>
 -->
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <!--
 **Pablolopezlo15/Pablolopezlo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
