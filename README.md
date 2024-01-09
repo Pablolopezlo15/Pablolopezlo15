@@ -17,7 +17,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,boostrap,java,js,php,git,vue,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,js,php,git,vue,react,angular" />
   </a>
 </p>
 
