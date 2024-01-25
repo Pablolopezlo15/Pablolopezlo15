@@ -24,13 +24,13 @@
 <h3>Back-End</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,laravel,symphony,mysql,mariadb,oracle" />
+    <img src="https://skillicons.dev/icons?i=java,php,laravel,symfony,mysql" />
   </a>
 </p>
 
 <h3>Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,node,firebase,composer" />
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,firebase" />
   </a>
 </p>
