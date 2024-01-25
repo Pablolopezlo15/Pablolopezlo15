@@ -15,8 +15,8 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<h3>Front-End</h3>
 <p align="center">
+  <h3>Front-End</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,vue,react,angular,html,css,bootstrap,sass" />
   </a>
