@@ -21,15 +21,15 @@
     <img src="https://skillicons.dev/icons?i=js,vue,react,angular,html,css,bootstrap,sass" />
   </a>
 </p>
-<h3>Back-End</h3>
 <p align="center">
+  <h3>Back-End</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,laravel,symfony,mysql" />
   </a>
 </p>
 
-<h3>Tools</h3>
 <p align="center">
+  <h3>Tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,nodejs,firebase" />
   </a>
