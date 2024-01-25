@@ -15,9 +15,22 @@
   </ul>
 </div>
 <!--tech stack icons-->
+<h3>Front-End</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,js,php,git,vue,react,angular" />
+    <img src="https://skillicons.dev/icons?i=js,vue,react,angular,html,css,bootstrap,sass" />
+  </a>
+</p>
+<h3>Back-End</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,laravel,symphony,mysql,mariadb,oracle" />
   </a>
 </p>
 
+<h3>Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,node,firebase,composer" />
+  </a>
+</p>
