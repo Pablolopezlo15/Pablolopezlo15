@@ -21,17 +21,18 @@
     <img src="https://skillicons.dev/icons?i=js,vue,react,angular,html,css,bootstrap,sass" />
   </a>
 </p>
+
 <p align="center">
   <h3>Back-End</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,laravel,symfony,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,php,laravel,symfony,mysql,mongodb" />
   </a>
 </p>
 
 <p align="center">
   <h3>Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,firebase,javafx,docker" />
   </a>
 </p>
 
