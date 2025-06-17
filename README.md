@@ -33,9 +33,4 @@ Software Developer
 
 <a href="http://www.github.com/Pablolopezlo15"><img src="https://github-readme-stats.vercel.app/api?username=Pablolopezlo15&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pablolopezlo15's GitHub stats" /></a>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Pablolopezlo15" alt="👁️ Contador de visitas" />
-</p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
